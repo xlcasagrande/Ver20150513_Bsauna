@@ -29,11 +29,11 @@ public class Cliente {
 		return codice;
 	}
 	
-	public int getNumeroOre(){
+	/*public int getNumeroOre(){
 		return ;
 	}
 	
 	public double getRicavoComplessivo(){
 		return;
-	}
+	}*/
 }

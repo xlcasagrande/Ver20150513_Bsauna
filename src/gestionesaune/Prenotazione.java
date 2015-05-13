@@ -25,11 +25,11 @@ public class Prenotazione {
 		return oraDiUscita;
 	}
 	
-	public int getNumeroOre(){
+	/*public int getNumeroOre(){
 		return ;
 	}
 	
 	public double getRicavoComplessivo(){
 		return ;
-	}
+	}*/
 }
